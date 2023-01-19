@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to my Github!
-## My name is Polina and I’m currently learning coding
-
-
+#### My name is Polina and I’m currently learning coding
+#### University: UBC
 
 <!--
 **psorokva/psorokva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
